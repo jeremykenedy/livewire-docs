@@ -9,7 +9,7 @@
     },
     "devDependencies": {
         "animateplus": "^2.1.1",
-        "browser-sync": "^2.26.3",
+        "browser-sync": "^2.27.10",
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^3.2.3",
         "css-loader": "^2.1.1",
